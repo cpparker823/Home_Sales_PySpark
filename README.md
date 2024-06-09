@@ -1,1 +1,1 @@
-# Home_Sales_PySpark
+In this project I used my knowledge of SparkSQL to determine key metrics about home sales data. I used Spark to create temporary views, partion the data, cache and uncache a temporary table comparing their run times, and verified the uncache was successful. I ran a handful of queries to explore the date and reveal several patterns. 
